@@ -1,0 +1,62 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://hoteloasiscordoba.com/",
+ "read_at": "2026-10-29T13:14:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://hoteloasiscordoba.com/",
+   "sha256": "d99e0260b21318dbb5e0e70561144cbf842aee6db0bbb5495258de5d618fc7e1",
+   "chars": 4368
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/accommodation/double-deluxe/",
+   "sha256": "45881da39252ecac96d118b77bd56ae002ab1278f0e343c198828a365ab2e106",
+   "chars": 1932
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/accommodation/single-room/",
+   "sha256": "6d48f66563082d66035e90bc0f770379d85737b7be53d64fb79d0161d8c2b7fd",
+   "chars": 2522
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/accommodation/standard-double/",
+   "sha256": "593d3361555e752626c3f840b6ec7df2f59c95e3825f2babda85c72973ec8ace",
+   "chars": 1907
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/accommodation/standard-suite/",
+   "sha256": "843fb6eafec3dcbb9118ae6c22c8035fb27a0f5704a28ace28f24530dcd629d7",
+   "chars": 2501
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/accommodation/superior-suite/",
+   "sha256": "512e141d0b2d8757610e23b2385908ee39945c22d76f0dae636253cc88eafb57",
+   "chars": 2729
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/contacto/",
+   "sha256": "0d35d03d98f4bb60fc071a446dfdf01a23479f67bd8232e5d7265d9ade1a0cf4",
+   "chars": 784
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/habitaciones/",
+   "sha256": "b9c0d88947d8b50212984283fa8f7b4cbf810f4c58f74c2b6c440338403fd842",
+   "chars": 1047
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/privacy-policy-2/",
+   "sha256": "aad75c2f55bae0257885372e30db305c82163852490353543984583cc3ca35e2",
+   "chars": 10169
+  },
+  {
+   "url": "https://hoteloasiscordoba.com/restaurante-2/",
+   "sha256": "58b0717e947ca42470f27b77fac8cf9ea7ed864c036395ce43470d948484393b",
+   "chars": 8148
+  }
+ ],
+ "other_pages_read": [
+  "https://hoteloasiscordoba.com/galleria/",
+  "https://hoteloasiscordoba.com/politica-de-privacidad/"
+ ]
+}
