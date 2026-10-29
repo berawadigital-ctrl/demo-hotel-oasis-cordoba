@@ -1,0 +1,448 @@
+{
+ "url": "http://127.0.0.1:43583/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene Habitación Doble/Matrimonial (también para uso individual), Habitación Triple, Habitación Cuádruple con terraza, Junior Suite y Habita"
+    },
+    {
+     "q": "¿Tiene habitaciones para familias?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: hay habitaciones triples (hasta 3 personas) y cuádruples (hasta 4 personas), ideales para familias. La Junior Suite admite hasta 3 perso"
+    },
+    {
+     "q": "¿Cuál es la habitación romántica?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La Habitación romántica tiene una gran cama redonda King Size, balcón, climatización, baño completo con secador, TV de 43″ y wifi. No admite"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Está en la Avda. de Cádiz, 78, 14013 Córdoba, a 25 minutos a pie de la Mezquita-Catedral."
+    },
+    {
+     "q": "¿Tiene parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, el parking es gratuito e incluido en todas las reservas, sin coste adicional."
+    },
+    {
+     "q": "¿Tiene piscina?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, dispone de piscina exterior descubierta, de uso gratuito para los huéspedes. Consulta al hotel las fechas de apertura."
+    },
+    {
+     "q": "¿Tiene restaurante?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, el Restaurante Axares, de cocina tradicional cordobesa, abre de 13:30 a 15:30 y de 20:30 a 22:30 todos los días, para huéspedes y públic"
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, se admiten mascotas de pequeño tamaño, salvo en la Habitación romántica, con un cargo por noche; consulta al hotel el peso máximo y el i"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El check-in es desde las 12:30 y el check-out antes de las 12:00. La recepción está abierta 24 horas."
+    },
+    {
+     "q": "¿Tienen cuna?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, hay cuna disponible en la Habitación Doble, la Junior Suite y la romántica (sin cargo en estas dos). La Cuádruple no admite cuna adicion"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 957 298 311 o escribir a reservas@oasiscordoba.com. Este asistente n"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Según su política de privacidad, el titular es HOTEL OASIS SL, CIF B14061626."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 957 298 311 o escribir a reservas@oasiscordoba.com. Este asistente n"
+    },
+    {
+     "q": "¿Tienen spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "¿Hay traslado al aeropuerto?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿Tiene parking?",
+    "¿Tiene piscina?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "stat1",
+    "svc1",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té Habitació Doble/Matrimonial (també per a ús individual), Habitació Triple, Habitació Quàdruple amb terrassa, Junior Suite i Habitació rom"
+    },
+    {
+     "q": "Té habitacions per a famílies?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí: hi ha habitacions triples (fins a 3 persones) i quàdruples (fins a 4 persones), ideals per a famílies. La Junior Suite admet fins a 3 pe"
+    },
+    {
+     "q": "Quina és l'habitació romàntica?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "L'Habitació romàntica té un gran llit rodó King Size, balcó, climatització, bany complet amb assecador, TV de 43″ i wifi. No admet mascotes "
+    },
+    {
+     "q": "On és?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "És a l'Avda. de Cádiz, 78, 14013 Còrdova, a 25 minuts a peu de la Mesquita-Catedral."
+    },
+    {
+     "q": "Té pàrquing?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Sí, el pàrquing és gratuït i inclòs a totes les reserves, sense cost addicional."
+    },
+    {
+     "q": "Té piscina?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Sí, disposa de piscina exterior descoberta, d'ús gratuït per als hostes. Consulta a l'hotel les dates d'obertura."
+    },
+    {
+     "q": "Té restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, el Restaurant Axares, de cuina tradicional cordovesa, obre de 13:30 a 15:30 i de 20:30 a 22:30 cada dia, per a hostes i públic. No cal r"
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, s'admeten mascotes de mida petita, excepte a l'Habitació romàntica, amb un càrrec per nit; consulta a l'hotel el pes màxim i l'import. N"
+    },
+    {
+     "q": "A quina hora és el check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "El check-in és des de les 12:30 i el check-out abans de les 12:00. La recepció és oberta 24 hores."
+    },
+    {
+     "q": "Teniu bressol?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, hi ha bressol disponible a l'Habitació Doble, la Junior Suite i la romàntica (sense càrrec en aquestes dues). La Quàdruple no admet bres"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 957 298 311 o escriure a reservas@oasiscordoba.com. Aquest assistent n"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Segons la seva política de privacitat, el titular és HOTEL OASIS SL, CIF B14061626."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 957 298 311 o escriure a reservas@oasiscordoba.com. Aquest assistent n"
+    },
+    {
+     "q": "Teniu spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Hi ha trasllat a l'aeroport?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "Té pàrquing?",
+    "Té piscina?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has a Double room (also for single use), a Triple room, a Quadruple room with terrace, a Junior Suite and a Romantic room with balcony."
+    },
+    {
+     "q": "Are there family rooms?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes: there are triple rooms (up to 3 people) and quadruple rooms (up to 4 people), ideal for families. The Junior Suite takes up to 3 people"
+    },
+    {
+     "q": "What is the romantic room?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "The Romantic room has a large round King Size bed, balcony, air conditioning, full bathroom with hairdryer, 43″ TV and wifi. Pets and extra "
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is at Avda. de Cádiz, 78, 14013 Córdoba, a 25-minute walk from the Mosque-Cathedral."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Yes, parking is free and included in every booking, at no extra cost."
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Yes, there is an uncovered outdoor pool, free for guests. Ask the hotel for its opening dates."
+    },
+    {
+     "q": "Is there a restaurant?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, the Axares Restaurant, serving traditional Cordoban cuisine, opens 13:30–15:30 and 20:30–22:30 every day, for guests and the public. No"
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, small pets are allowed, except in the Romantic room, with a charge per night; ask the hotel for the maximum weight and amount. They can"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Check-in is from 12:30 and check-out before 12:00. Reception is open 24 hours."
+    },
+    {
+     "q": "Do you have a cot?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, a cot is available in the Double room, the Junior Suite and the Romantic room (free of charge in the latter two). The Quadruple room do"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 957 298 311 or email reservas@oasiscordoba.com. This assistant does not confirm a"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "According to its privacy policy, the owner is HOTEL OASIS SL, CIF B14061626."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 957 298 311 or email reservas@oasiscordoba.com. This assistant does not confirm a"
+    },
+    {
+     "q": "Do you have a spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Is there an airport shuttle?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 957 29 83 11 · reservas@oasiscordoba.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is there parking?",
+    "Is there a pool?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il propose une Chambre double (aussi en usage individuel), une Chambre triple, une Chambre quadruple avec terrasse, une Junior Suite et une "
+    },
+    {
+     "q": "Y a-t-il des chambres familiales ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui : il y a des chambres triples (jusqu'à 3 personnes) et quadruples (jusqu'à 4 personnes), idéales pour les familles. La Junior Suite accu"
+    },
+    {
+     "q": "Quelle est la chambre romantique ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "La Chambre romantique dispose d'un grand lit rond King Size, d'un balcon, de la climatisation, d'une salle de bain complète avec sèche-cheve"
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il se trouve Avda. de Cádiz, 78, 14013 Cordoue, à 25 minutes à pied de la Mosquée-Cathédrale."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Oui, le parking est gratuit et inclus dans toutes les réservations, sans frais supplémentaires."
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Oui, il dispose d'une piscine extérieure découverte, gratuite pour les clients. Demandez à l'hôtel ses dates d'ouverture."
+    },
+    {
+     "q": "Y a-t-il un restaurant ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, le Restaurant Axares, de cuisine cordouane traditionnelle, est ouvert de 13h30 à 15h30 et de 20h30 à 22h30 tous les jours, pour les cli"
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, les petits animaux sont admis, sauf dans la Chambre romantique, avec un supplément par nuit ; demandez à l'hôtel le poids maximum et le"
+    },
+    {
+     "q": "À quelle heure est l'arrivée ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "L'arrivée se fait à partir de 12h30 et le départ avant 12h00. La réception est ouverte 24 h/24."
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, un lit bébé est disponible dans la Chambre double, la Junior Suite et la chambre romantique (sans frais pour ces deux dernières). La Qu"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 957 298 311 ou écrire à reservas@oasiscordoba.com. Cet "
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Selon sa politique de confidentialité, le titulaire est HOTEL OASIS SL, CIF B14061626."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 957 298 311 ou écrire à reservas@oasiscordoba.com. Cet "
+    },
+    {
+     "q": "Avez-vous un spa ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 29 83 11 · reservas@oasiscordoba.com."
+    },
+    {
+     "q": "Y a-t-il une navette aéroport ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 957 29 83 11 · reservas@oasiscordoba.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Y a-t-il un parking ?",
+    "Y a-t-il une piscine ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
